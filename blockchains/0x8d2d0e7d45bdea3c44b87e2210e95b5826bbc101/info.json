@@ -1,0 +1,10 @@
+    "name": "Baby Shiba Coin",
+    "website": "https://babyshibacoin.com/",
+    "description": "Baby Shiba Coin is a decentralized cryptocurrency running on the Binance Smart Chain with instant rewards for holders. Join us on our journey to the moon.",
+    "explorer": "https://bscscan.com/token/0x8d2d0e7d45bdea3c44b87e2210e95b5826bbc101",
+    "type": "BEP20",
+    "symbol": "Baby Shiba",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x8d2d0e7d45bdea3c44b87e2210e95b5826bbc101"
+}
